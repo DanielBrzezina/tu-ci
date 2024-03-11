@@ -1,0 +1,29 @@
+
+header{
+    height: 300px;
+    background-image: url("../obrazky/R.png");
+}
+body{
+    color: white;
+    background-color: rgb(48, 45, 45);
+    text-align: center;
+    font-family: Arial;
+}
+a{
+    color: rgb(159, 197, 215);
+}
+a:hover{
+    color:gray;
+}
+a:visited{
+    color: aliceblue;
+}
+ul{
+    list-style-type: none;
+}
+article,p{
+    font-size: 20px;
+}
+h1{
+    font-size: 3cm;
+}
